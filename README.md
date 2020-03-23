@@ -2,10 +2,12 @@
 
 URL shortener
 
-## Installation & running
+## Running
+
+Go must be installed, `cd` into directory, then:
 
 ```sh
-> go get github.com/evgeniuz/shortener
+> go get
 > go run main.go
 ```
 
