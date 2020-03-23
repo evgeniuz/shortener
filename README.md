@@ -11,6 +11,12 @@ Go must be installed, `cd` into directory, then:
 > go run main.go
 ```
 
+To test, run:
+
+```sh
+> go test ./...
+```
+
 ## Usage
 
 ### Shortening URL
